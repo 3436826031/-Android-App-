@@ -1,7 +1,12 @@
 
-# -日记APP-
+# :airplane:日记APP
 
-🌥 一个简单的日记App，
+🌥 一个简单的日记App
+<div align="center">
+<a href="https://github.com/3436826031/Unity"><img src="https://badgen.net/github/stars/3436826031/Unity-plugin?icon=github&color=blue"></a>
+<a href="https://github.com/3436826031/Unity"><img src="https://badgen.net/github/stars/3436826031/Unity-plugin?icon=QQ&color=blue"></a>
+</div>
+<br/>
 
 #### 说明:
 
